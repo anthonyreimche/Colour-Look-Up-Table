@@ -1,0 +1,13 @@
+{
+  "id": "colour-look-up-table",
+  "name": "Colour Look Up Table",
+  "version": "1.0.0",
+  "description": "Move colours in Lab with up to 49 patches, each taking a colour to a target, and every other colour carried smoothly between them; with chart presets and five film looks, a colour picker and a patch chart to edit on.",
+  "author": "Anthony Reimche",
+  "main": "dist/index.js",
+  "license": "GPL-3.0-or-later",
+  "categories": ["Develop", "Color"],
+  "keywords": ["colour look up table", "color look up table", "lut", "colour checker", "color checker", "colour grading", "film look", "lab", "profile"],
+  "repository": "anthonyreimche/Colour-Look-Up-Table",
+  "minAppVersion": "3.2.8"
+}
