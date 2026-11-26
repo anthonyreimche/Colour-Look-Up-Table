@@ -40,6 +40,7 @@ export function activate(host: SafelightAPI): void {
     title: "Colour Look Up Table",
     component: ColourLutPanel,
     defaultDock: { module: "develop", direction: "right", width: 268 },
+    modules: ["develop"],
     onReset: reset,
     mask: { component: ColourLutPanel, owns: PARAM_KEYS.map(qualified) },
   });

@@ -1,7 +1,7 @@
 {
   "name": "safelight-colour-look-up-table",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colour Look Up Table extension for Safelight: a port of darktable's color look up table, a thin-plate spline through up to 49 Lab patches.",
   "type": "module",
   "scripts": {

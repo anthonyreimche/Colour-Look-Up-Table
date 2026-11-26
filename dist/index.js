@@ -1353,6 +1353,7 @@ function at(e) {
 			direction: "right",
 			width: 268
 		},
+		modules: ["develop"],
 		onReset: it,
 		mask: {
 			component: ze,

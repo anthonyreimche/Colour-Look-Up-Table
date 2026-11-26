@@ -1,7 +1,7 @@
 {
   "id": "colour-look-up-table",
   "name": "Colour Look Up Table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Move colours in Lab with up to 49 patches, each taking a colour to a target, and every other colour carried smoothly between them; with chart presets and five film looks, a colour picker and a patch chart to edit on.",
   "author": "Anthony Reimche",
   "main": "dist/index.js",
